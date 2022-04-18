@@ -3,14 +3,14 @@ To decrypt the GoAnimate Assets, Use the key "sorrypleasetryagainlater" if it's 
 
 # List of GoAnimate Domains to rip assets.
 
-http://lightspeed.goanimate.com/store/30
-http://lightspeed.goanimate.com
-https://ga.vyond.com (Shut Down)
-www4.edplatform.goanimate.com (Shut Down)
-www4.goanimate4schools.com (Shut Down) 
-www4.goanimate.com (Shut Down)
-https://d3v4eglovri8yt.cloudfront.netf
-http://lightspeed.goanimate.com/
-https://godevstorage.s3.amazonaws.com/
+* http://lightspeed.goanimate.com/store/30
+* http://lightspeed.goanimate.com
+* https://ga.vyond.com (Shut Down)
+* www4.edplatform.goanimate.com (Shut Down)
+* www4.goanimate4schools.com (Shut Down) 
+* www4.goanimate.com (Shut Down)
+* https://d3v4eglovri8yt.cloudfront.netf
+* http://lightspeed.goanimate.com/
+* https://godevstorage.s3.amazonaws.com/
 
 
