@@ -9,7 +9,7 @@ To decrypt the GoAnimate Assets, Use the key "sorrypleasetryagainlater" if it's 
 * www4.edplatform.goanimate.com (Shut Down)
 * www4.goanimate4schools.com (Shut Down) 
 * www4.goanimate.com (Shut Down)
-* https://d3v4eglovri8yt.cloudfront.netf
+* https://d3v4eglovri8yt.cloudfront.net
 * http://lightspeed.goanimate.com/
 * https://godevstorage.s3.amazonaws.com/
 
